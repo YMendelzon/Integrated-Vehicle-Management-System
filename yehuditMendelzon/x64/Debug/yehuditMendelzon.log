@@ -1,0 +1,10 @@
+﻿  Car.cpp
+  main.cpp
+  Motorcycle.cpp
+  Motorcycle.h
+  ServiceStation.cpp
+  Truck.cpp
+  Vehicle.cpp
+  Generating Code...
+x64\Debug\Motorcycle.obj : warning LNK4042: object specified more than once; extras ignored
+  yehuditMendelzon.vcxproj -> C:\Users\The user\Desktop\yehuditMendelzon\x64\Debug\yehuditMendelzon.exe
